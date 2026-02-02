@@ -1,0 +1,10 @@
+ipykernel
+wfdb 
+torch_geometric 
+neurokit2
+numpy 
+pandas
+scikit-learn
+matplotlib
+seaborn
+optuna
