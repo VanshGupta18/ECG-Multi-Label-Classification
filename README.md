@@ -56,4 +56,4 @@ You need Python installed on your system. It is highly recommended to use a virt
 
 ## License
 
-*(Add your license information here)*
+This project is licensed under the [MIT License](LICENSE).
